@@ -14,22 +14,14 @@
     background-color: #212529 !important;
 }
 
-.background{
-    background-color: #9ACD32;
-}
-.background-intro{
-    background-color: #5F5F5F;
-}
-
 ._header{
     padding-bottom: 1rem;
 }
 
-.bg-card{
-    background-color: #4D4D4D;
-}
-
-.bg{
-    background-repeat: no-repeat no-repeat;
+.custom-audio {
+    background-color: #212529;
+    color: #000;
+    border-radius: 1rem;
+    padding: 0.5rem;
 }
 
