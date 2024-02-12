@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'ELEGANT TYPEWRITER';
+    src: url("Fonts/ELEGANT TYPEWRITER Light.ttf") format('ttf');
+        url("Fonts/ELEGANT TYPEWRITER Regular.ttf") format('ttf');
+}
+
+@font-face {
+    font-family: 'ELEGANT TYPEWRITER';
+    font-weight: 700;
+    src: url("Fonts/ELEGANT TYPEWRITER Bold.ttf") format('ttf');;
+}
+
+.navbar-custom {
+    background-color: #212529 !important;
+}
+
+.background{
+    background-color: #9ACD32;
+}
+.background-intro{
+    background-color: #5F5F5F;
+}
+
+._header{
+    padding-bottom: 1rem;
+}
+
+.bg-card{
+    background-color: #4D4D4D;
+}
+
+.bg{
+    background-repeat: no-repeat no-repeat;
+}
+
