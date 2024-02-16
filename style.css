@@ -1,13 +1,10 @@
 @font-face {
-    font-family: 'ELEGANT TYPEWRITER';
-    src: url("Fonts/ELEGANT TYPEWRITER Light.ttf") format('ttf');
-        url("Fonts/ELEGANT TYPEWRITER Regular.ttf") format('ttf');
+   ;
+    src: url("Fonts/ELEGANT TYPEWRITER Light.ttf");
 }
 
-@font-face {
-    font-family: 'ELEGANT TYPEWRITER';
-    font-weight: 700;
-    src: url("Fonts/ELEGANT TYPEWRITER Bold.ttf") format('ttf');;
+*{
+    font-family: "ELEGANT TYPEWRITER" ,sans-serif;
 }
 
 .navbar-custom {
@@ -27,4 +24,21 @@
 
 h5.text-aa{
     color: red;
+}
+
+.hmargin5{
+    margin: 0 5%;
+}
+
+.img-with-credit{
+    display: inline-block;
+}
+
+.credits{
+    position: relative;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.7); /* semi-transparent background */
+    padding: 5px 10px;
+    font-size: 14px;
 }
